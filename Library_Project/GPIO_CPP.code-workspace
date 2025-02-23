@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/PlatformIO/Projects/GPIO_CPP"
+		},
+		{
+			"name": "GPIO_LED_STM_CPP",
+			"path": "../ITI-EMBEDDED-9M/Eng.ANAS_Lab/GPIO_LED_STM_CPP"
+		},
+		{
+			"name": "HShed_Driver_Build",
+			"path": "../../ARM/ES45_ARM/Workspace/HShed_Driver_Build"
+		},
+		{
+			"name": "SCHED_DRIVER_BUILD",
+			"path": "../../Documents/PlatformIO/Projects/SCHED_DRIVER_BUILD"
+		},
+		{
+			"name": "SWITCH_Driver_Build",
+			"path": "../../ARM/ES45_ARM/Workspace/SWITCH_Driver_Build"
+		},
+		{
+			"name": "UART_DRIVER",
+			"path": "../../ARM/ES45_ARM/Workspace/UART_DRIVER"
+		},
+		{
+			"name": "LCD_DRIVER",
+			"path": "../../Documents/PlatformIO/Projects/LCD_DRIVER"
+		},
+		{
+			"name": "LCD_DRIVER_BUILD",
+			"path": "../../ARM/ES45_ARM/Workspace/LCD_DRIVER_BUILD"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.conf": "bitbake",
+			"*.inc": "bitbake",
+			"std_types.h": "c"
+		},
+		"python.autoComplete.extraPaths": [
+			"${workspaceFolder}/sources/poky/bitbake/lib",
+			"${workspaceFolder}/sources/poky/meta/lib"
+		],
+		"python.analysis.extraPaths": [
+			"${workspaceFolder}/sources/poky/bitbake/lib",
+			"${workspaceFolder}/sources/poky/meta/lib"
+		]
+	}
+}
