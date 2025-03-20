@@ -1,0 +1,3 @@
+/home/yasmeen/ITI_9M_EMBEDDED_systems/Modern_C-/ATMProject/build/CMakeFiles/atm.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/Modern_C-/ATMProject/build/CMakeFiles/edit_cache.dir
+/home/yasmeen/ITI_9M_EMBEDDED_systems/Modern_C-/ATMProject/build/CMakeFiles/rebuild_cache.dir
